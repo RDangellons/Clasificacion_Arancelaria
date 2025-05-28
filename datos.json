@@ -1,0 +1,334 @@
+[
+    {
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg",
+        "nombre": "Albania",
+        "coords": [40.8356074212398, 19.87100520034012],
+        "capital":"Capital: Tirana",
+        "moneda":"Moneda: Lek albanés",
+        "idioma":"Idioma: oficial albanés",
+        "aduana_importante":"Aduana mas importante:  Aduana de Durrës",
+        "url": "https://es.wikipedia.org/wiki/Albania"
+    },
+    {
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1280px-Flag_of_Germany.svg.png",
+        "nombre": "Alemania",
+        "coords": [51.18086301523588, 10.842097024909732],
+        "capital":"Capital: Berlin",
+        "moneda":"Moneda: Euro",
+        "idioma":"Idioma: Aleman",
+        "aduana_importante":"Aduana mas importante:  Aduana de Hamburgo (puerto de Hamburgo) ",
+        "url": "alemania.html"
+    },
+    {
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/1280px-Flag_of_Andorra.svg.png",
+        "nombre":"Andorra",
+        "coords": [42.51548680104729, 1.530831711447307],
+        "capital":"Capital:Andorra la bella",
+        "moneda":"Moneda: Euro",
+        "idioma":"Idioma: Catalan",
+        "aduana_importante":"Aduana mas importante:  Aduana de Ereván.",
+        "url": "https://es.wikipedia.org/wiki/Andorra"
+    },
+    {
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/1920px-Flag_of_Armenia.svg.png",
+        "nombre":"Armenia",
+        "coords": [40.185022352371824, 44.50148247280151],
+        "capital":"Capital: Ereván",
+        "moneda":"Moneda: Dram armenio (AMD)",
+        "idioma":"Idioma: Armenio",
+        "aduana_importante":"Aduana mas importante:  Aduana de Ereván.",
+        "url": "https://es.wikipedia.org/wiki/Armenia#:~:text=Dotada%20de%20un%20rico%20patrimonio,armenia%20como%20su%20iglesia%20nacional.&text=Armenia%20es%20actualmente%20miembro%20de,hasta%20su%20independencia%20en%201991."
+    },
+    {
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/1280px-Flag_of_Austria.svg.png",
+        "nombre":"Austria",
+        "coords": [40.185022352371824, 44.50148247280151],
+        "capital":"Capital: Vien",
+        "moneda":"Moneda: Euro(EUR)",
+        "idioma":"Idioma: Aleman",
+        "aduana_importante":"Aduana mas importante:  Aduana de Viena..",
+        "url": "austria.html"
+    },
+    {
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/1920px-Flag_of_Azerbaijan.svg.png",
+        "nombre":"Azerbaiyán",
+        "coords": [40.24986051594118, 48.049129021704694],
+        "capital":"Capital: Bakú",
+        "moneda":"Moneda: Manat azerbaiyano",
+        "idioma":"Idioma: Azerí",
+        "aduana_importante":"Aduana mas importante:  Aduana de Bakú",
+        "url": "https://es.wikipedia.org/wiki/Azerbaiy%C3%A1n"
+    } ,
+    {
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/1920px-Flag_of_Belarus.svg.png",
+        "nombre":"Bielorrusia",
+        "coords": [53.77012164884179, 27.53228526139621],
+        "capital":"Capital: Mins",
+        "moneda":"Moneda: Rublo bielorruso",
+        "idioma":": bielorruso y ruso",
+        "aduana_importante":"Aduana mas importante de Minsk",
+        "url": "https://es.wikipedia.org/wiki/Bielorrusia"
+    },
+    {
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/1024px-Flag_of_Belgium.svg.png",
+        "nombre":"Bélgica",
+        "coords": [50.82093230662159, 4.366452935499013],
+        "capital":"Capital: Bruselas",
+        "moneda":"Moneda: Euro",
+        "idioma":"Idioma: bielorruso y ruso",
+        "aduana_importante":"Aduana mas importante: Aduana de Amberes (puerto de Amberes).",
+        "url": "belgica.html"
+    },
+    {
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/1280px-Flag_of_Bulgaria.svg.png",
+        "nombre":"Bulgaria:",
+        "coords": [42.151728924024276, 25.012256355296447],
+        "capital":"Capital: Sofia",
+        "moneda":"Moneda: Lev búlgaro",
+        "idioma":"Idioma: búlgaro",
+        "aduana_importante":"Auduana mas importantes: Aduana de Burgas.",
+        "url": "https://es.wikipedia.org/wiki/B%C3%A9lgica"
+    },
+    {
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/1920px-Flag_of_Croatia.svg.png",
+        "nombre":"Croacia:",
+        "coords": [44.916418404346096, 14.952549798575138],
+        "capital":"Capital: Zagreb",
+        "moneda":"Moneda: Euro (desde 2023)",
+        "idioma":"Idioma: croata",
+        "aduana_importante":"Auduana mas importantes: Aduana de Rijeka..",
+        "url": "https://es.wikipedia.org/wiki/Croacia"
+    },
+    {
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/1024px-Flag_of_Denmark.svg.png",
+        "nombre":"Dinamarca",
+        "coords": [55.511393801834544, 9.277262832845418],
+        "capital":"Capital: Copenhague",
+        "moneda":"Moneda: Corona Danesa",
+        "idioma":"Idioma: Danes",
+        "aduana_importante":"Auduana mas importantes: Aduana de Copenhague",
+        "url": "https://es.wikipedia.org/wiki/Dinamarca"
+    },
+    {
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/1024px-Flag_of_Denmark.svg.png",
+        "nombre":"Republica Checa",
+        "coords": [50.04969948593794, 14.42841445842259],
+        "capital":"Capital: Praga",
+        "moneda":"Moneda: Corona checa",
+        "idioma":"Idioma: Checo",
+        "aduana_importante":"Auduana mas importantes: Aduana de Praga.",
+        "url": "https://es.wikipedia.org/wiki/Dinamarca"
+    },
+    {
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/1920px-Flag_of_Slovenia.svg.png",
+        "nombre":"Eslovenia",
+        "coords": [45.977584993334126, 14.529266296242882],
+        "capital":"Capital: Liubliana",
+        "moneda":"Moneda: Euro",
+        "idioma":"Idioma: Esloveno",
+        "aduana_importante":"Auduana mas importantes: : Aduana de Koper",
+        "url": "https://es.wikipedia.org/wiki/Eslovenia"
+    },
+    {
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/1280px-Bandera_de_Espa%C3%B1a.svg.png",
+        "nombre":"España",
+        "coords": [40.39884653264968, -3.721750717552143],
+        "capital":"Capital: Madrid",
+        "moneda":"Moneda: Euro",
+        "idioma":"Idioma: Español",
+        "aduana_importante":"Auduana mas importantes: Aduana de Algeciras",
+        "url": "españa.html"
+    },
+    {
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/1280px-Flag_of_Finland.svg.png",
+        "nombre":"Finlandia",
+        "coords": [61.431372808361004, 23.726612374963686],
+        "capital":"Capital: Helsinki",
+        "moneda":"Moneda: Euro",
+        "idioma":"Idioma: Finlandes y Sueco",
+        "aduana_importante":"Auduana mas importantes: Aduana de Helsinki",
+        "url": "https://es.wikipedia.org/wiki/Finlandia"
+    },
+    {
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",
+        "nombre":"Francia",
+        "coords": [46.47434431797678, 2.3881623038383357],
+        "capital":"Capital: Paris",
+        "moneda":"Moneda: Euro",
+        "idioma":"Idioma: Frances",
+        "aduana_importante":"Auduana mas importantes: Aduana de Le Havre",
+        "url": "francia.html"
+    },
+    {
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/1280px-Flag_of_Greece.svg.png",
+        "nombre":"Grecia",
+        "coords": [39.29617207083869, 22.30712952410819],
+        "capital":"Capital: Atenas",
+        "moneda":"Moneda: Euro",
+        "idioma":"Idioma: Griego",
+        "aduana_importante":"Auduana mas importantes: Aduana de El Pireo",
+        "url": "https://es.wikipedia.org/wiki/Grecia"
+    },
+    {
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/1920px-Flag_of_Ireland.svg.png",
+        "nombre":"Irlanda",
+        "coords": [53.1505280408515, -7.989422724219323],
+        "capital":"Capital: Dublin",
+        "moneda":"Moneda: Euro",
+        "idioma":"Idioma: Irlandes",
+        "aduana_importante":"Auduana mas importantes: Aduana de Dublín",
+        "url": "https://es.wikipedia.org/wiki/Irlanda"
+    },
+    {
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
+        "nombre":"Italia",
+        "coords": [43.02646191086702, 12.445476319367373],
+        "capital":"Capital: Roma",
+        "moneda":"Moneda: Euro",
+        "idioma":"Idioma: Italiano",
+        "aduana_importante":"Auduana mas importantes: : Aduana de Génova",
+        "url": "italia.html"
+    },
+    {
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/1920px-Flag_of_Kazakhstan.svg.png",
+        "nombre":"Kazajistan",
+        "coords": [48.16709861357213, 65.39087809947952],
+        "capital":"Capital: Nursultán",
+        "moneda":"Moneda: Tenge kazajo",
+        "idioma":"Idioma: kazajo y ruso",
+        "aduana_importante":"Auduana mas importantes: : Aduana de Almatý.",
+        "url": "https://es.wikipedia.org/wiki/Kazajist%C3%A1n"
+    },
+    {
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/1280px-Flag_of_Lithuania.svg.png",
+        "nombre":"Lituania",
+        "coords": [55.414810060044694, 23.809350796921983],
+        "capital":"Capital: Vilna",
+        "moneda":"Moneda: Euro (EUR)",
+        "idioma":"Idioma: Lituano",
+        "aduana_importante":"Auduana mas importantes: : Aduana de Klaipeda",
+        "url": "https://es.wikipedia.org/wiki/Lituania"
+    },
+    {
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/1280px-Flag_of_Malta.svg.png",
+        "nombre":"Malta",
+        "coords": [55.414810060044694, 23.809350796921983],
+        "capital":"Capital: La valeta",
+        "moneda":"Moneda: Euro (EUR)",
+        "idioma":"Idioma: Maltes e Ingles",
+        "aduana_importante":"Auduana mas importantes: : Aduana de La Valeta.",
+        "url": "https://es.wikipedia.org/wiki/Malta"
+    },
+    {
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/1920px-Flag_of_Montenegro.svg.png",
+        "nombre":"Monte negro",
+        "coords": [42.7872612009569, 19.09562113449906],
+        "capital":"Capital: Podgorica",
+        "moneda":"Moneda: Euro (EUR)",
+        "idioma":"Idioma: Montenegrino",
+        "aduana_importante":"Auduana mas importantes: : Aduana de Bar",
+        "url": "https://es.wikipedia.org/wiki/Montenegro"
+    },
+    {
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1280px-Flag_of_the_Netherlands.svg.png",
+        "nombre":"Paises bajos",
+        "coords": [52.13636923181723, 5.529534895482204],
+        "capital":"Capital: : Ámsterdam",
+        "moneda":"Moneda: Euro (EUR)",
+        "idioma":"Idioma: neerlandés",
+        "aduana_importante":"Auduana mas importantes: : Aduana de Rotterdam",
+        "url": "holanda.html"
+    },
+    {
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_Portugal_%28official%29.svg/1280px-Flag_of_Portugal_%28official%29.svg.png",
+        "nombre":"Portugal",
+        "coords": [39.42662179572665, -8.249200802937262],
+        "capital":"Capital: : Lisboa",
+        "moneda":"Moneda: Euro (EUR)",
+        "idioma":"Idioma: Portugues",
+        "aduana_importante":"Auduana mas importantes: : Aduana de Lisboa.",
+        "url": "https://es.wikipedia.org/wiki/Portugal"
+    },
+    {
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/1920px-Flag_of_the_United_Kingdom_%281-2%29.svg.png",
+        "nombre":"Reino unido",
+        "coords": [55.43320580944976, -3.4113559710940233],
+        "capital":"Capital: : Londres",
+        "moneda":"Moneda: Libra esterlina",
+        "idioma":"Idioma: Ingles",
+        "aduana_importante":"Auduana mas importantes: : Aduana de Felixstowe",
+        "url": "inglaterra.html"
+    },
+    {
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/1280px-Flag_of_Romania.svg.png",
+        "nombre":"Rumania",
+        "coords": [45.70534028987051, 24.950960734133574],
+        "capital":"Capital: : Bucarest",
+        "moneda":"Moneda: Leu Rumano",
+        "idioma":"Idioma: Rumano",
+        "aduana_importante":"Auduana mas importantes: : Aduana de Constanza",
+        "url": "https://es.wikipedia.org/wiki/Rumania"
+    },
+    {
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/1280px-Flag_of_Sweden.svg.png",
+        "nombre":"Suecia",
+        "coords": [64.25725387880169, 16.50308915820027],
+        "capital":"Capital: : Estocolmo",
+        "moneda":"Moneda: Corona sueca",
+        "idioma":"Idioma: Sueco",
+        "aduana_importante":"Auduana mas importantes: : Aduana de Gotemburgo",
+        "url": "suecia.html"
+    },
+    {
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/800px-Flag_of_Switzerland_%28Pantone%29.svg.png",
+        "nombre":"Suiza",
+        "coords": [46.94454730051455, 7.4542245062010695],
+        "capital":"Capital: Berna",
+        "moneda":"Moneda: Franco suizo",
+        "idioma":"Idioma: alemán, francés, italiano y romanche",
+        "aduana_importante":"Auduana mas importantes: Aduana de Basilea",
+        "url": "suiza.html"
+    },
+    {
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/1280px-Flag_of_Turkmenistan.svg.png",
+        "nombre":"Turkmenistán",
+        "coords": [39.141919284310994, 59.55684562858369],
+        "capital":"Capital: Asjabad",
+        "moneda":"Moneda: Manat turcomano",
+        "idioma":"Idioma: turcomano",
+        "aduana_importante":"Auduana mas importantes: Aduana de Asjabad",
+        "url": "https://es.wikipedia.org/wiki/Turkmenist%C3%A1n"
+    },
+    {
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/1280px-Flag_of_Ukraine.svg.png",
+        "nombre":"Ucrania",
+        "coords": [48.89261436553063, 31.239260082106718],
+        "capital":"Capital: Kiev",
+        "moneda":"Moneda: Grivna ucraniana",
+        "idioma":"Idioma: ucraniano",
+        "aduana_importante":"Auduana mas importantes: Aduana de Odessa",
+        "url": "https://es.wikipedia.org/wiki/Ucraniahttps://es.wikipedia.org/wiki/Ucrania"
+    },
+    {
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/1920px-Flag_of_Uzbekistan.svg.png",
+        "nombre":"Uzbekistán",
+        "coords": [42.03326299004031, 63.49293024765982],
+        "capital":"Capital: Taskent",
+        "moneda":"Moneda: Som uzbeko",
+        "idioma":"Idioma:  uzbeko",
+        "aduana_importante":"Auduana mas importantes: Aduana de Taskent",
+        "url": "https://es.wikipedia.org/wiki/Uzbekist%C3%A1n"
+    }
+
+
+
+
+
+
+
+    
+
+
+   
+    
+]

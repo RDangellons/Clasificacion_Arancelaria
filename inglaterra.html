@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Alemania - Ficha Detallada</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        .container {
+            width: 90%;
+            max-width: 600px;
+            background: #ffffff;
+            padding: 40px 30px;
+            border-radius: 12px;
+            box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+            text-align: center;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .container:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 35px rgba(0,0,0,0.2);
+        }
+        h1 {
+            margin-bottom: 20px;
+            font-size: 2em;
+            color: #1a237e; /* azul marino elegante */
+            border-bottom: 2px solid #1a237e;
+            padding-bottom: 10px;
+        }
+        p {
+            margin: 12px 0;
+            font-size: 1.05em;
+            color: #333333;
+        }
+        img.main-flag {
+            max-width: 250px;
+            width: 100%;
+            height: auto;
+            margin: 20px auto;
+            border-radius: 6px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+        img.secondary {
+            max-width: 180px;
+            width: 100%;
+            height: auto;
+            margin: 15px auto;
+            border-radius: 4px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        a {
+            display: inline-block;
+            margin-top: 25px;
+            padding: 12px 25px;
+            text-decoration: none;
+            background-color: #1a237e;
+            color: #fff;
+            border-radius: 4px;
+            font-size: 1em;
+            transition: background 0.3s ease, transform 0.3s ease;
+        }
+        a:hover {
+            background-color: #0d1550;
+            transform: scale(1.05);
+        }
+
+        /* Adaptabilidad móvil */
+        @media (max-width: 480px) {
+            h1 {
+                font-size: 1.6em;
+            }
+            p {
+                font-size: 1em;
+            }
+            a {
+                font-size: 0.95em;
+                padding: 10px 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Reino Unido</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/1920px-Flag_of_the_United_Kingdom_%281-2%29.svg.png" alt="Bandera de Italia" class="main-flag">
+        <p><strong>Capital:</strong> Londres</p>
+        <p><strong>Moneda:</strong> Libra Esterlina</p>
+        <img src="https://www.globalexchange.hk/documents/20151/31585/libra-esterlina-billetes.jpg/4360cca3-9f63-c215-4fc3-e9317e549604?t=1539771304328" alt="Libra" class="secondary">
+        <p><strong>Idioma oficial:</strong> Ingles</p>
+        <p><strong>Aduana más importante:</strong>Aduana de Felixstowe </p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Coat_of_arms_of_the_United_Kingdom_%282022%2C_variant_2%29.svg/1024px-Coat_of_arms_of_the_United_Kingdom_%282022%2C_variant_2%29.svg.png" alt="Escudo" class="secondary">
+        <a href="/index.html">← Volver al mapa</a>
+    </div>
+</body>
+</html>
